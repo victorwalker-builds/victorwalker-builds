@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hey, I'm Victor Walker 👋
 
-<!--
-**victorwalker-builds/victorwalker-builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Developer | Software Development Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in building practical digital solutions, developing websites and exploring software technologies that solve real-world problems.
+
+### 💻 Technologies & Tools I usually use
+
+- HTML
+- CSS
+- JavaScript
+- C++
+- Git & GitHub
+
+### 🚀 My Projects
+
+- **SunVolt Solar Solutions** – A website for a solar energy business.
+- **D~D's Touch Up** – A website for a nail saloom.
+- **StudentHelp Hub** – A student support platform.
+- **LenoSol Website** – A web development project.
+
+### 🎯 My Goals
+
+- Build professional websites and applications.
+- Develop my programming and problem-solving skills.
+- Explore backend development and databases.
+- Create useful software solutions.
+
+### 📫 Connect With Me
+
+- GitHub: [@walkervictor090-source](https://github.com/victorwalker-builds)
+
+
+*Building, experimenting and turning ideas into digital solutions.*
