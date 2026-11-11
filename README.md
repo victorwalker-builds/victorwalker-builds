@@ -30,7 +30,7 @@ I'm interested in building practical digital solutions, developing websites and 
 
 ### 📫 Connect With Me
 
-- GitHub: [@walkervictor090-source](https://github.com/victorwalker-builds)
+- GitHub: [@victorwalker-builds](https://github.com/victorwalker-builds)
 
 
 *Building, experimenting and turning ideas into digital solutions.*
